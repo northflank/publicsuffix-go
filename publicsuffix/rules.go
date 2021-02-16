@@ -5,11 +5,11 @@ package publicsuffix
 
 const defaultListVersion = "PSL version 93011c (Mon Feb  8 20:18:12 2021)"
 
-func DefaultRules() [9128]Rule {
+func DefaultRules() [9130]Rule {
 	return r
 }
 
-var r = [9128]Rule{
+var r = [9130]Rule{
 	{1, "ac", 1, false},
 	{1, "com.ac", 2, false},
 	{1, "edu.ac", 2, false},
