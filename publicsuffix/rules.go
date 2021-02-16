@@ -8617,6 +8617,8 @@ var r = [9128]Rule{
 	{1, "ngrok.io", 2, true},
 	{1, "nh-serv.co.uk", 3, true},
 	{1, "nfshost.com", 2, true},
+	{2, "*.northflank.app", 3, true},
+	{2, "*.code.run", 3, true},
 	{1, "dnsking.ch", 2, true},
 	{1, "mypi.co", 2, true},
 	{1, "n4t.co", 2, true},
