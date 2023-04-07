@@ -2,4 +2,7 @@ module github.com/northflank/publicsuffix-go
 
 go 1.11
 
-require golang.org/x/net v0.0.0-20200202094626-16171245cfb2
+require (
+	github.com/weppos/publicsuffix-go v0.30.0
+	golang.org/x/net v0.9.0
+)
